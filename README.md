@@ -1,3 +1,14 @@
+<h1>About Project</h1>
+<h3>This project is created for demonstration purposes only</h3>
+<ol>
+  <h1>Functionality:</h1>
+  <li>user set app mode</li>
+  <li>press START</li>
+  <li>if the user hovers on the square - he turns blue</li>
+  <li>if the user hovers on the blue square - he turns white</li>
+  <li>show hover squares (to see all hovered squares scroll the list)</li>
+</ol>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
